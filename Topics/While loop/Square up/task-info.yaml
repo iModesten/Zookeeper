@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    i = 1
+    while i > 20:
+        print(i)
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6540#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Jul 2021 15:05:16 UTC
+record: -1

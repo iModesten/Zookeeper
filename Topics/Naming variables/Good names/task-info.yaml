@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# copy the correct variables here'
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6876#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 16 Jul 2021 09:10:58 UTC
+record: -1

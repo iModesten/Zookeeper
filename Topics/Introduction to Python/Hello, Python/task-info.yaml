@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5205#comment
+status: Solved
+feedback:
+  message: <html>Passed. Congratulations! It is your first Python program that really
+    works.</html>
+  time: Thu, 15 Jul 2021 05:53:49 UTC
+record: -1
